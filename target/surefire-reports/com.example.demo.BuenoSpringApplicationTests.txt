@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.demo.BuenoSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.254 s <<< FAILURE! - in com.example.demo.BuenoSpringApplicationTests
+pruebaFallo  Time elapsed: 0.175 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <100.0> but was: <20.0>
+	at com.example.demo.BuenoSpringApplicationTests.pruebaFallo(BuenoSpringApplicationTests.java:35)
+
